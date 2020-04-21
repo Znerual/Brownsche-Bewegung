@@ -26,6 +26,7 @@
 	<Files>
 		<Filter Name="Header Files" Filter="fi;fd"/>
 		<Filter Name="Resource Files" Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe">
+		<File RelativePath=".\fit.log"/>
 		<File RelativePath=".\random_walk.dat"/>
 		<File RelativePath=".\random_walk.pdf"/>
 		<File RelativePath=".\random_walk1d.dat"/>
